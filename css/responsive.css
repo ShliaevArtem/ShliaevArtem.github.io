@@ -140,7 +140,7 @@
 }
 .slicknav_nav .slicknav_row, .slicknav_nav a {
 	padding: 8px 0;
-	margin:0px;
+	margin:20px 0 0;
 	text-transform:uppercase;
 	font-weight:400;
 }
